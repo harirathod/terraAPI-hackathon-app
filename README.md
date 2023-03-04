@@ -35,7 +35,7 @@ ___
 The repository has been forked and redeployed in case the above link becomes invalid.
 
 ## Running On Your Machine
-```
+```shell
 git clone https://github.com/ManeetSigtia/TerraPet.git
 cd TerraPet
 npm install
