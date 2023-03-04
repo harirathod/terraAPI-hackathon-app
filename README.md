@@ -1,5 +1,5 @@
-# TerraPet
-Terra-Pet is a fitness web app that uses the Terra API to collect health-related data from users and help them stay committed to their fitness goals. The app rewards users for achieving their weekly goals by growing a virtual pet, which improves as the user becomes healthier and more active.
+# 'Terra-Pet'
+'Terra-Pet' is a fitness web app that uses the Terra API to collect health-related data from users and help them stay committed to their fitness goals. The app rewards users for achieving their weekly goals by growing a virtual pet, which improves as the user becomes healthier and more active.
 
 The application was developed during a hackathon on 1 March 2023, at King's College London.
 ___
