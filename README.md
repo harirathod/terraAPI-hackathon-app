@@ -54,7 +54,7 @@ Neel Nair - K22028768
 ##### The project is a web application, built using React.js
 * The getData.py file retrieves the data from the user's account, using the Terra API. 
 * This python script then extracts the steps_walked and activity_seconds fields from the JSON generated, and creates a JSON file (data.json). 
-* The App.js script parses the data.json file, and displays the data on the web page, when the user presses _'Load data from 'Fitness Device'.'_
+* The App.js script parses the data.json file, and displays the data on the web page, when the user presses _'Upload data from 'Fitness Device'.'_
 * The user can also manually enter data. This data is stored in App.js using 'state'. The data is displayed as a list, and the user can remove data if they mistype, for example.
 * Once the number of steps reaches 10000, 20000, etc., the App.js script updates the size of the pet.
 
