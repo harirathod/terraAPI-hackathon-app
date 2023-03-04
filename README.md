@@ -1,9 +1,38 @@
 # TerraPet
 Terra-Pet is a fitness web app that uses the Terra API to collect health-related data from users and help them stay committed to their fitness goals. The app rewards users for achieving their weekly goals by growing a virtual pet, which improves as the user becomes healthier and more active.
 
+The application was developed during a hackathon on 1 March 2023, at King's College London.
+___
+
+## Table of Contents
+* **[My Contribution](#my-contribution)**
+* **[Live Demo](#live-demo)**
+* **[Running On Your Machine](#running-on-your-machine)**
+* **[Project Details](#project-details)**
+  * **[Team Name](#team-name)**
+  * **[Challenge](#challenge)**
+  * **[Members Names](#members-names)**
+  * **[Technologies Used](#technologies-used)**
+  * **[How the Project was Implemented](#how-the-project-was-implemented)**
+  * **[Mentor Name](#mentor-name)**
+* **[Project Description](#project-description)**
+  * **[The Problem](#the-problem)**
+  * **[The Solution](#the-solution)**
+  * **[Benefits](#benefits)**
+  * **[Market Potential](#market-potential)**
+* **[Features and Extensibilty](#features-and-extensibility)**
+
+___
+
+## My Contribution
+- Created the front-end of the web application using React.js and CSS3. 
+
 ## Live Demo
 
-* Click on **https://maneetsigtia.github.io/TerraPet/** for the live demo!
+* Click on **https://harirathod.github.io/terraAPI-hackathon-app/** for the live demo!
+
+> The original repository that my team used to collaborate is located at **https://github.com/ManeetSigtia/TerraPet**.  
+The repository has been forked and redeployed in case the above link becomes invalid.
 
 ## Running On Your Machine
 ```
@@ -12,24 +41,6 @@ cd TerraPet
 npm install
 npm start
 ```
-
-___
-
-## Table of Contents
-* [Project Details](#project-details)
-  * [Team Name](#team-name)
-  * [Challenge](#challenge)
-  * [Members Names](#members-names)
-  * [Technologies Used](#technologies-used)
-  * [How the Project was Implemented](#how-the-project-was-implemented)
-  * [Mentor Name](#mentor-name)
-  
-* [Project Description](#project-description)
-  * [The Problem](#the-problem)
-  * [The Solution](#the-solution)
-  * [Benefits](#benefits)
-  * [Market Potential](#market-potential)
-* [Features and Extensibilty](#features-and-extensibility)
 
 ## Project Details
 ### Team Name
